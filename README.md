@@ -1,67 +1,80 @@
-# Walmart Market Business Intelligence Dashboard (walmart canada-mexico-usa Power BI)
+# Walmart Market Business Intelligence Dashboard
 
-Remark:- 📽️ I invite you to kindly watch the demo video link showcasing the dashboard in action. It highlights the interactive features and demonstrates how data storytelling effectively translates complex data into actionable business insights.
+## 📊 Project Overview
 
-🚀 Excited to showcase my latest end-to-end Business Intelligence project using Power BI, where I built a dynamic and insight-driven dashboard for Walmart Market, a multinational retail giant operating in Canada, Mexico, and the United States.
+The **Walmart Market Business Intelligence Dashboard** is an interactive data analytics and visualization project designed to analyze Walmart market data and generate meaningful business insights.
 
-# 🔍 Project Objectives:
+The dashboard provides an easy-to-understand view of key business information through interactive filters, visualizations, data relationships, and market reports. It helps users explore the data and identify important patterns and trends for better business decision-making.
 
-1. Track and compare Total Transactions, Total Profit, Total Returns, and Revenue vs Targets
-2. Understand geographic performance down to store city level
-3. Identify high-performing product brands and return trends
-4. Use previous month as a benchmark for evaluating current month results
+## 🎯 Objectives
 
-# 💡 Key Features Implemented in Power BI:
+- Analyze Walmart market data using interactive dashboards.
+- Transform raw data into meaningful business insights.
+- Create an organized data model with appropriate relationships.
+- Provide filtered views for detailed analysis.
+- Present important market trends and insights visually.
+- Support data-driven business decision-making.
 
-🔹 Matrix Visual:
+## 🛠️ Tools & Technologies
 
-Displays Total Transactions, Profit, Profit Margin, and Return Rate by Product Brand
-Applied Data Bars on Transactions and Color Scales on Profit Margin (White to Green) and Return Rate (White to Red)
-Top 30 Brands visualized using Top N filter and sorted by performance
+- **Power BI** – Dashboard development and data visualization
+- **Power Query** – Data cleaning and transformation
+- **DAX** – Measures and calculated metrics
+- **Data Modeling** – Relationships between datasets
+- **Excel/CSV** – Data source and preprocessing
 
-🔹 KPI Cards:
+## 📌 Key Features
 
-Current Month Transactions vs Last Month
-Current Month Profit vs Last Month
-Current Month Returns vs Last Month (with “Low is Good” formatting)
+- Interactive Walmart market dashboard
+- Dynamic filtering and slicers
+- Data model and table relationships
+- Business-focused KPIs and visualizations
+- Market reports and insights
+- User-friendly dashboard interface
+- Interactive exploration of business data
 
-🔹 Interactive Map & Treemap:
+## 📈 Dashboard Components
 
-Map shows Total Transactions by Store City with slicer for country (USA, Mexico, Canada)
-Treemap enables drill-down from Country → State → City for deep regional insights
+### 1. Main Dashboard
+Provides an overall view of the Walmart market data through visualizations and business metrics.
 
-🔹 Weekly Revenue Trend:
+### 2. Filtered Dashboard View
+Allows users to apply filters and analyze specific portions of the data according to their requirements.
 
-Column chart filtered to show only 1998 data
-Tracks revenue weekly for precise time-series performance monitoring
+### 3. Data Model & Relationships
+Shows how different datasets/tables are connected and structured for analysis.
 
-🔹 Revenue vs Target Gauge:
+### 4. Market Report & Insights
+Presents important findings and insights derived from the analyzed market data.
 
-Visualizes current month revenue against previous month’s target
-Focuses on latest period performance, ideal for executive summary views
+## 💡 Business Value
 
-🔹 Bookmarks & Interactions:
+This project demonstrates how **Business Intelligence and Data Analytics** can transform raw business data into actionable insights. The dashboard can help stakeholders monitor performance, explore market trends, and make more informed decisions.
 
-Created bookmark for “📍 Portland hits 1,000 sales in December”
-Configured button navigation and page-level notes
-Disabled unwanted interactions between visuals for better user experience
+## 👨‍💻 Skills Demonstrated
 
-### 📸 Dashboard Preview
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Power BI Dashboard Development
+- DAX
+- Power Query
+- Data Modeling
+- Business Intelligence
+- Analytical Thinking
 
-![Dashboard Screenshot](<Dashboard%201.jpg>)
+## 📂 Project Structure
 
-# 📈 Top Insights Uncovered:-
+```text
+Walmart-Market-Business-Intelligence-Dashboard/
+│
+├── Dataset/
+├── Dashboard/
+├── Screenshots/
+├── README.md
+└── Walmart_Market_Business_Intelligence_Dashboard.pbix
+```
 
-✅ Portland reached 1,000+ sales in December — high-performing city
+## 🚀 Conclusion
 
-🏆 Top 10 Product Brands account for 25% of total revenue and exceed revenue targets
-
-📊 Current Month Transactions & Profit improved over last month — but Returns increased by 2.9%, signaling product or service issues
-
-🌎 Mexico's Market outperformed the previous month in both Profit and Revenue — deserves increased focus and investment
-
-# 🛠️ Tools & Skills Applied:
-
-Power BI | DAX | Data Modeling | Conditional Formatting | Drill-Down | Slicers | Bookmarks | Storytelling
-
-This project helped me refine my ability to translate raw data into business strategy, align visuals with executive decision-making, and simulate real-time market reporting.
+The Walmart Market Business Intelligence Dashboard showcases the complete process of converting business data into an interactive analytical solution. It demonstrates practical skills in **Power BI, data modeling, visualization, and business intelligence** while providing a clear view of market performance and insights.
